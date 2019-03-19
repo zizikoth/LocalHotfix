@@ -1,0 +1,8 @@
+com/memo/hotfix/App.class
+com/memo/hotfix/BaseActivity.class
+com/memo/hotfix/utils/ArrayUtils.class
+com/memo/hotfix/utils/Constant.class
+com/memo/hotfix/utils/FileUtils.class
+com/memo/hotfix/utils/HotfixUtils.class
+com/memo/hotfix/utils/LogUtils.class
+com/memo/hotfix/utils/ReflectUtils.class

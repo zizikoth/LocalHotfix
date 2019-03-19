@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:orientation="vertical"
+	tools:context=".BugActivity">
+	
+	<TextView
+		android:id="@+id/mTvResult"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:gravity="center"
+		android:padding="10dp"
+		android:text="提示文字" />
+	
+	<Button
+		android:id="@+id/mBtnShow"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="40dp"
+		android:text="点击展示示例" />
+	
+	<Button
+		android:id="@+id/mBtnFix"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="加载补丁" />
+
+</LinearLayout>
